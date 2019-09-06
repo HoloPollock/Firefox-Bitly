@@ -1,7 +1,9 @@
 # Firefox-Bitly
 I made this on mac os and is best used as an automator action
 ## Install
-Make a bitly account and get your general access token replay `$your_token` with
+Install [Homebrew](https://brew.sh)
+
+Make a [bitly](https://bitly.com) account and get your general access token replay `$your_token` with
 that
 
 run `curl -H "Authorization: Bearer $your_token" -H "Accept: application/json"
@@ -12,7 +14,7 @@ brew install ffsend
 brew install jq
 ```
 ## Use
-create automator service with 
+create automator service with.  
 Run Spell Script  
 Set variable  
 copy to clipboard
