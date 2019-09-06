@@ -14,7 +14,7 @@ brew install ffsend
 brew install jq
 ```
 ## Use
-create automator service with.  
+create **automator** service with    
 Run Spell Script  
 Set variable  
 copy to clipboard
